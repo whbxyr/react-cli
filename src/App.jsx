@@ -9,7 +9,7 @@ import { connect } from 'react-redux'
   })
 )
 class App extends Component {
-  render () {
+  render() {
     return (
       <div className='App'>
         <Upload

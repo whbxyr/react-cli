@@ -18,6 +18,10 @@
     "test": "jest"
   },
   "dependencies": {
+    "eslint-plugin-prettier": "^2.4.0",
+    "less": "^2.7.3",
+    "less-loader": "^4.0.5",
+    "prettier": "^1.9.2",
     "prop-types": "^15.6.0",
     "react": "^16.2.0",
     "react-dom": "^16.2.0",
